@@ -11,7 +11,7 @@
 		</tr>
 		<tr>
 			<a href="https://github.com/AleAmoros">
-				<img src="https://badge42.vercel.app/api/v2/cl3mqfiri012609jta2fy3sls/stats?cursusId=21&coalitionId=125" alt="AleAmoros' 42 stats" />
+				<img src="https://badge42.vercel.app/api/v2/cl3mqfiri012609jta2fy3sls/stats?cursusId=21&coalitionId=125" alt="aamoros-' 42 stats" />
 			</a>
 		</tr>
 	</table>
