@@ -4,17 +4,21 @@
 - 🖥 I’m currently student at 42Malaga
 - ⌨️ I’m currently learning C, C++, Solidity, Python
 - 📫 Reach me -> aamoros-@student.42malaga.com
+
+
+
+
 <div align="center">
 	<table>
 		<tr>
 			<b>My 42 stats</b></br>
 		</tr>
-		<tr>
-			<a href="https://github.com/AleAmoros">
-				<img src="https://badge42.vercel.app/api/v2/cl3mqfiri012609jta2fy3sls/stats?cursusId=21&coalitionId=125" alt="aamoros-' 42 stats" />
-			</a>
-		</tr>
-	</table>
+	<table>
+</div>
+
+[![aamoros-'s 42 stats](https://badge.mediaplus.ma/kettlebells/aamoros-)](https://github.com/oakoudad/badge42)
+
+<div align="center">
 	<table>
 		<tr>
 			<b>My GitHub stats</b>
