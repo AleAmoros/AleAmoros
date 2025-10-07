@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 👋 Hi, I’m @AleAmoros (Alejandro)
-- 🖥 I’m currently student at 42Malaga
+- 🖥 I’m currently a student at 42Malaga
 - ⌨️ I’m currently learning C, C++, Solidity, Python
 - 📫 Reach me -> aamoros-@student.42malaga.com
 
